@@ -72,6 +72,7 @@ Ejecución del Proyecto
 Para empezar con el backend, dirígete a la carpeta sistema-gestion-citas-backend y ejecuta el siguiente comando:
 
 ```bash
+cd sistema-gestion-citas-backend
 npm start
 ```
 
@@ -82,6 +83,7 @@ Esto pondrá en funcionamiento el servidor en http://localhost:3000.
 Luego, debes iniciar el frontend. Dirígete a la carpeta sistema-gestion-citas y ejecuta el siguiente comando:
 
 ```bash
+cd sistema-gestion-citas
 npm run dev
 ```
 
