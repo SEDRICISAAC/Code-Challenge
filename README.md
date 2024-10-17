@@ -44,7 +44,7 @@ Primero, necesitarás descargar una copia del proyecto a tu computadora. Para es
 
 ```bash
 git clone https://github.com/tu-usuario/sistema-gestion-citas.git
-cd sistema-gestion-citas
+cd code-challenge
 ```
 
 ### 2. Instalar las dependencias
